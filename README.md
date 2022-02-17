@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to **''ProSkate Game''** Official Website
 
-You can use the [editor on GitHub](https://github.com/Making-websites/ProSkate-Game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+                  **ABOUT THIS GAME**
+___________________________________________________________________
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**ProSkate Game** is the evolution of skateboarding gameplay. 
+It seems it comes with excelent and unique physics-based gameplay.
 
-### Markdown
+It's coming for devices: **PC**, **ANDROID** AND **IOS**. For PC 
+and mobile gamers. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Best part of this game is that, you can customize and create your
+character with many real skate brands.
 
-```markdown
-Syntax highlighted code block
+Skateboard Brands: **Santa Cruz**, **Real**, **Polar**, **Almost**,
+ **Baker**, **Enjoi**, **Anti Hero**, **Girl**, **Powell Reralta**,
+ **Creature**, **Element**, **PLAN B**, **Blind, **Darkstar**,
+ **Deathwish**, **Emillion**, **Flip**, **Imagine**, **Jart**, 
+    **Skatemafia**, **Toy Machine**, **Zero**, **Zoo York** 
+                        **RipNDip**
+                      AND MANY MORE
 
-# Header 1
-## Header 2
-### Header 3
+    
+       Of Corse this game has fashion brands like: 
+   **Nike**, **DC**, **DGK**, **Dickies**, **Element**, 
+     **Lakai**, **RipNDip** **Zero**, **Zoo York**, 
+                      AND MANY MORE
 
-- Bulleted
-- List
+Customize your Gear: Deck, Trucks, Griptape, Wheels.
+               And your clothes.
 
-1. Numbered
-2. List
+Download **mods** to the game and play much better with them.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Making-websites/ProSkate-Game/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Notice: **Notice: ProSkate Game requires a controller to play. Playing with a keyboard and mouse isn't supported. (Game Supports: Xbox and Ps4 controller to play).
