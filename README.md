@@ -32,4 +32,4 @@ Customize your Gear: Deck, Trucks, Griptape, Wheels.
 Download **mods** to the game and play much better with them.
 
 
-Notice: **Notice: ProSkate Game requires a controller to play. Playing with a keyboard and mouse isn't supported. (Game Supports: Xbox and Ps4 controller to play).
+Notice: **Notice: ProSkate Game requires a controller to play. Playing with a keyboard and mouse isn't supported. (Game Supports: Xbox and Ps4 controller to play)**.
