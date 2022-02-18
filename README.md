@@ -1,6 +1,6 @@
 ## Welcome to **''ProSkate Game''** Official Website
 
-                  **ABOUT THIS GAME**
+                  **ABOUT THE GAME**
 ___________________________________________________________________
 
 **ProSkate Game** is the evolution of skateboarding gameplay. 
